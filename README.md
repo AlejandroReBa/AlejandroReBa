@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate Infrastructure/DevOps Engineer from Spain</h3>
 
-- 🌱 I’m currently learning **Kubernetes and Golang**
+<img align="left" src="crow.png">
+
+- 🌱 I’m currently learning **Kubernetes, Golang, AWS and Azure**
 
 - 💬 Ask me about **DevOps/SRE tools and approaches**
 
